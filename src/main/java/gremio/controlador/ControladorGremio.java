@@ -251,3 +251,4 @@ public class ControladorGremio {
         vista.actualizarReportes(Main.generarReportes(gremio));
     }
 }
+
