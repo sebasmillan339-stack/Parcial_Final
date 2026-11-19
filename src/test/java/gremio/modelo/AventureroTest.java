@@ -76,4 +76,3 @@ public class AventureroTest {
         assertEquals("El Monje Kai gasta puntos de Ki para ejecutar una Ráfaga de Golpes y un Ataque Aturdidor.", lista.get(3).ejecutarTactica());
     }
 }
-
