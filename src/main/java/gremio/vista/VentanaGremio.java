@@ -628,4 +628,3 @@ public class VentanaGremio extends javax.swing.JFrame {
     private javax.swing.JTextField txtVida;
     // End of variables declaration//GEN-END:variables
 }
-
