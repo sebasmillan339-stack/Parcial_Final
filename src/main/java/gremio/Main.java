@@ -67,3 +67,4 @@ public class Main {
                 + "Promedio de puntos de vida: " + promedio;
     }
 }
+
